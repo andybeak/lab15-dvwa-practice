@@ -3,8 +3,8 @@
 # ReCAPTCHA settings
 #   Used for the 'Insecure CAPTCHA' module
 #   You'll need to generate your own keys at: https://www.google.com/recaptcha/admin
-$_DVWA['recaptcha_public_key'] = '6Lf1ucsUAAAAADvKkBa8zadymlV99cljbeB28TIh';
-$_DVWA['recaptcha_private_key'] = '6Lf1ucsUAAAAAP8E0j8t0RMq5QEjw7sn4VmuqKAZ';
+$_DVWA['recaptcha_public_key'] = '';
+$_DVWA['recaptcha_private_key'] = '';
 
 
 # Database variables
