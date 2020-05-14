@@ -1,5 +1,5 @@
 # https://hub.docker.com/r/vulnerables/web-dvwa/dockerfile
-FROM debian:10.3
+FROM debian:10.4
 
 LABEL maintainer "opsxcq@strm.sh"
 
